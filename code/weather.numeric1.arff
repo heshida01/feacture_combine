@@ -1,0 +1,23 @@
+@relation weather
+
+@attribute outlook {sunny, overcast, rainy}
+@attribute temperature numeric
+@attribute humidity numeric
+
+
+@data
+sunny,85,85
+sunny,80,90
+overcast,83
+rainy,70,96
+rainy,68,80
+rainy,65,70
+overcast,64
+sunny,72,95
+sunny,69,70
+rainy,75,80
+sunny,75,70
+overcast,72
+overcast,81
+rainy,71,91
+

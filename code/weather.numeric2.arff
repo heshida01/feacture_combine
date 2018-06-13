@@ -1,0 +1,21 @@
+@relation weather
+
+
+@attribute windy {TRUE, FALSE}
+@attribute play {yes, no}
+
+@data
+FALSE,no
+TRUE,no
+FALSE,yes
+FALSE,yes
+FALSE,yes
+TRUE,no
+65,TRUE,yes
+FALSE,no
+FALSE,yes
+FALSE,yes
+TRUE,yes
+90,TRUE,yes
+FALSE,yes
+TRUE,no
